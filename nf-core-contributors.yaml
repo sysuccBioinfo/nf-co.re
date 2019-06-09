@@ -184,6 +184,20 @@ contributors:
       contact_github: likelet
       location: [23.1314683032,113.2899452059]
       twitter: qi_likelet
+      
+    - full_name: Sun Yat-sen University Cancer Center
+      short_name: SYSUCC
+      description: >
+        Sun Yat-sen University Cancer Center is a comprehensive cancer centre which provides clinical care to patients,
+        education (students & CME), perform research and prevention activities.
+      address: 651, Dongfeng East Road, Guangzhou, Guangdong, China
+      url: http://sysucc.org.cn/
+      image_fn: sysucc.png
+      contact: Yu Sun
+      contact_email: suny226@mail2.sysu.edu.cn
+      contact_github: bioinformatist
+      location: [23.1314683032,113.2899452059]
+      twitter: YuSunCN
 
     - full_name: BioFrontiers Institute at University of Colorado, Boulder
       short_name: CUBoulder
